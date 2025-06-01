@@ -21,3 +21,7 @@ This project demonstrates three types of recommender systems using the MovieLens
 3. Install requirements:
    ```bash
    pip install -r requirements.txt
+
+📦 [IMPORTANT]  
+Please download the MovieLens 100K dataset from [here](https://grouplens.org/datasets/movielens/100k/)  
+and place it inside the `data/ml-100k/` folder **locally** before running.
