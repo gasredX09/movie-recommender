@@ -1,0 +1,9 @@
+# Ignore data and Jupyter-generated files
+data/ml-100k/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+.DS_Store
+*.pkl
+
